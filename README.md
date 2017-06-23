@@ -1,0 +1,2 @@
+# XamarinAndroidCustomTabbedRenderer
+Custom rendering
